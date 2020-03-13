@@ -1,7 +1,7 @@
 require './company.rb'
 require './transaction.rb'
-# You are given a list of all transactions of a particular stock. 
-# Find the return on investment.
+# This is a list  transactions of a particular stock. 
+# This program will give you the return of transcations made with this particular stock
 
 tesla = Company.new("Tesla", "TSLA", 772.50)
 
